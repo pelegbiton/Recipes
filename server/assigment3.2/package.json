@@ -1,0 +1,31 @@
+{
+  "name": "assignment-3-2-shachar_peleg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcrypt": "^4.0.1",
+    "client-sessions": "^0.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mssql": "^6.2.0",
+    "tedious": "^8.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node Main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SISE-Web-Development-Environments/assignment-3-2-shachar_peleg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SISE-Web-Development-Environments/assignment-3-2-shachar_peleg/issues"
+  },
+  "homepage": "https://github.com/SISE-Web-Development-Environments/assignment-3-2-shachar_peleg#readme"
+}
